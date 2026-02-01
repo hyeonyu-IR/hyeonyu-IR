@@ -105,6 +105,14 @@ The distance between clinician and computational investigator is far smaller tha
 
 ---
 
+## Academic Profiles
+
+- ORCID: https://orcid.org/0000-0002-4318-2575  
+- ResearchGate: https://www.researchgate.net/profile/Hyeon-Yu-3  
+- UNC Faculty Profile: https://www.med.unc.edu/radiology/people/hyeon-yu/
+
+---
+
 ## Disclaimer
 
 All repositories are intended for research and educational purposes only and are not validated for clinical use.
