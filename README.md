@@ -45,7 +45,7 @@ All projects are developed with an emphasis on **translational relevance** rathe
 
 ### Medical Imaging AI Templates
 - **rsna-boneage-regression**  
-  End-to-end pipeline for pediatric bone age estimation including training, evaluation, uncertainty estimation, and a deployment-ready Streamlit application.
+  End-to-end pipeline for pediatric bone age estimation, including training, evaluation, uncertainty estimation, and a deployment-ready Streamlit application.
 
 - **chest-xray-classification**  
   Structured MONAI/PyTorch template for disease classification with interpretability tools and reporting workflows.
@@ -63,7 +63,7 @@ All projects are developed with an emphasis on **translational relevance** rathe
 
 ### Educational / Infrastructure Projects
 - **tutorial-for-beginners**  
-  Notes and structured guides covering Git, Python, and research computing fundamentals from the perspective of a clinical learner.
+  Notes and structured guides covering Git, Python, R statistics, and research computing fundamentals from the perspective of a clinical learner.
 
 ---
 
