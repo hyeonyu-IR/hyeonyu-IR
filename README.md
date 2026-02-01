@@ -95,19 +95,6 @@ Bridging clinical expertise with computational methods is, in my view, one of th
 
 ---
 
-## Collaboration
-
-I welcome collaboration with:
-
-- clinicians entering medical AI  
-- trainees interested in imaging research  
-- data scientists seeking clinical partnership  
-- interdisciplinary academic groups  
-
-If your work intersects with translational imaging AI, reproducible research methods, or deployment-focused model design, I would be glad to connect.
-
----
-
 ## A Note to Clinicians Considering AI
 
 You do not need to be a formally trained programmer to engage deeply with artificial intelligence.
